@@ -8,7 +8,7 @@
 <body>
     <form action="/email" method="post">
         @csrf
-        <label for="">Enter receiver mail</label> <br>
+        <label for="">Enter receiver's mail</label> <br>
         <input type="email" name="to"> <br>
         <label for="">Enter subject: </label> <br>
         <input type="text" name="subject"> <br>
