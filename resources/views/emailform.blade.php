@@ -12,7 +12,7 @@
         <input type="email" name="to"> <br>
         <label for="">Enter subject: </label> <br>
         <input type="text" name="subject"> <br>
-        <label for="">Enter message</label> <br>
+        <label for="">Enter Message</label> <br>
         <input type="text" name="message"> <br>
         <button type="submit">Send Mail</button>
     </form>
