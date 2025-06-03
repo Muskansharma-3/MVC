@@ -14,7 +14,7 @@
         <input type="text" name="subject"> <br>
         <label for="">Enter message</label> <br>
         <input type="text" name="message"> <br>
-        <button type="submit">Send Email</button>
+        <button type="submit">Send Mail</button>
     </form>
 </body>
 </html>
