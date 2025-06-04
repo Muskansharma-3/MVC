@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>Multiplication Table of {{$k}}</h2>
+    <h2>Multiplication table of {{$k}}</h2>
     <table>
        
         <tbody>
