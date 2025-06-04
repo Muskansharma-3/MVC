@@ -10,6 +10,6 @@
     <h3>My name is {{$name}}</h3>
     <h3>My class is {{$class}}</h3>
     <h3>My roll no. is {{$roll}}</h3>
-    <a href="/home">Return to Home</a>
+    <a href="/home">Return to Home Page</a>
 </body>
 </html>
