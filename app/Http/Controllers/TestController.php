@@ -17,7 +17,7 @@ class TestController extends Controller
     {
         $products = [
             0 => ['name' => 'LED Bulb', 'price' => '100', 'description' => 'good'],
-            1 => ['name' => 'Extension Cord', 'price' => '500', 'description' => '5-meter extension cord with surge protection'],
+            1 => ['name' => 'Extension Cord', 'price' => '400', 'description' => '5-meter extension cord with surge protection'],
             2 => ['name' => 'Ceiling Fan', 'price' => '2000', 'description' => 'cool'],
             3 => ['name' => 'Electric Kettle', 'price' => '1500', 'description' => 'good'],
             4 => ['name' => 'Power Bank', 'price' => '800', 'description' => 'portable']
