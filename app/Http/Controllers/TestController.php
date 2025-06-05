@@ -20,7 +20,7 @@ class TestController extends Controller
             1 => ['name' => 'Extension Cord', 'price' => '500', 'description' => '5-meter extension cord with surge protection'],
             2 => ['name' => 'Ceiling Fan', 'price' => '2000', 'description' => 'cool'],
             3 => ['name' => 'Electric Kettle', 'price' => '1500', 'description' => 'good'],
-            4 => ['name' => 'Power Bank', 'price' => '1200', 'description' => 'portable']
+            4 => ['name' => 'Power Bank', 'price' => '800', 'description' => 'portable']
         ];
 
         return view('display', ['product' => $products[$id]]);
