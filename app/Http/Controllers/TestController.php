@@ -9,7 +9,7 @@ class TestController extends Controller
     //
     public function products(){
         $products=['LED Bulb', 'Extension Cord', 'Ceiling Fan', 'Electric Kettle', 'Power Bank'];
-        $prices=[100, 400, 2000, 1500, 1200];
+        $prices=[100, 400, 2000, 1500, 800];
         return view('products', compact('products', 'prices'));
     }
 
