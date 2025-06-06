@@ -1,4 +1,4 @@
-<h1>Products available at Electric Shop</h1>
+<h1>Products available at Electric shop</h1>
 <div>
     <ul>
     @foreach($products as $k => $product)
